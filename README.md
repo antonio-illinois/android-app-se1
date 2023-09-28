@@ -8,8 +8,8 @@ The code for CS427 Android app.
 | Name          | NetID         | GitHub ID   | Role          | Experience    |
 | ------------- | ------------- | ------------| ------------- | ------------- |
 |Zilal          |zelalae2@illinois.edu |zelal-Eizaldeen |      Manager  |Java, Python   |                                   
-|               |                  |               | |
-|               |               |             |               |Writing Reports|
+|               |                  |               | |         Writing Reports
+|               |               |             |               ||
 |               |               |             |               |               |
 |               |               |             |               |               |
 |               |               |             |               |               |
