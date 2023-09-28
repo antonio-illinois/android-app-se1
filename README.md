@@ -7,9 +7,9 @@ The code for CS427 Android app.
 <br/>
 | Name          | NetID         | GitHub ID   | Role          | Experience    |
 | ------------- | ------------- | ------------| ------------- | ------------- |
-|       Zilal     zelalae2@illinois.edu    zelal-Eizaldeen       |             |               |               |            
-|               |               |             |               |               |
-|               |               |             |               |               |
+|Zilal          |zelalae2@illinois.edu |zelal-Eizaldeen |      Manager  |Java, Python   |                                   
+|               |                  |               | |
+|               |               |             |               |Writing Reports|
 |               |               |             |               |               |
 |               |               |             |               |               |
 |               |               |             |               |               |
@@ -21,9 +21,9 @@ The code for CS427 Android app.
 <b>Weekly Progress Reports</b>
 </br> 
 </br>
-Meeting time: 
+Meeting time: Sunday 12PM(CT)
 </br> 
-Meeting location (zoom link):
+Meeting location (zoom link):https://illinois.zoom.us/j/7946717672?pwd=M0JSdjJZQXFaaUxBMG9CSW83cUNNdz09
 </br> 
 </br>
 <b>Week 1</b>
