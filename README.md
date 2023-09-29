@@ -9,7 +9,7 @@ The code for CS427 Android app.
 | ------------- | ------------- | ------------| ------------- | ------------- |
 |Zilal          |zelalae2@illinois.edu |zelal-Eizaldeen |      Manager  |Java, Python   |                                   
 |               |                  |               | |         Writing Reports
-|               |               |             |               ||
+|Antonio        |marques4       |antonio-illinois|Developer   |Java, Python   |
 |               |               |             |               |               |
 |               |               |             |               |               |
 |               |               |             |               |               |
